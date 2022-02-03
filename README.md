@@ -1,4 +1,7 @@
 # Basic-Calculator
+
+_Note: This is a Data Structures 2021 class project, assigned by Professor Joanna Klukowska, NYU._
+
 This program acts as a basic calculator, which promts user input through the console,
 and prints the solution to the console. 
 
